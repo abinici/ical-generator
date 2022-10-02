@@ -72,7 +72,7 @@ export interface ICalLuxonDateTimeStub {
     setZone(zone?: string): ICalLuxonDateTimeStub;
     toFormat(fmt: string): string;
     toJSDate(): Date;
-    isValid(): boolean;
+    isValid: boolean;
     toJSON(): string;
 }
 
