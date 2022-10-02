@@ -106,7 +106,7 @@
   "preferGlobal": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/sebbo2002/ical-generator.git"
+    "url": "https://github.com/abinici/ical-generator.git"
   },
   "runkitExampleFilename": "examples/example-runkit.js",
   "scripts": {
