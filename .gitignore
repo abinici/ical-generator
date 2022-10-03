@@ -1,5 +1,5 @@
 /.nyc_output
-/dist
+#/dist
 /docs
 /node_modules
 
